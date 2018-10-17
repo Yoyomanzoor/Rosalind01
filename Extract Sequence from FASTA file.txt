@@ -1,0 +1,16 @@
+sequences = dict()
+seqFragments = []
+for line in fasta_files[f_list[0]]:
+    if line.startswith('>'):
+        if seqFragments:
+            sequence = ''.join(seqFragments)
+            sequences[id] = sequence
+        seqFragments = []
+        id = line.rstrip()[1:]
+    else:
+        seq = line.rstrip()
+        seqFragments.append(seq)
+if seqFragments:
+    sequence = ''.join(seqFragments)
+    sequences[id] = sequence
+print(sequence)
