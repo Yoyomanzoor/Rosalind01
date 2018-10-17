@@ -4,16 +4,15 @@ Entrez.email = "smanzoor@luc.edu"
 
 f_dataset = open("Problem 11.txt", "r").read()
 f_list = f_dataset.split(" ")
-print(f_list)
 accessId = ""
 fasta_files = dict()
 
 for i in range(len(f_list)):
     accessId = f_list[i]
     handle = Entrez.efetch(db="nucleotide", rettype="fasta", id=accessId)
-    fasta_files[f_list[i]] = SeqIO.read(handle, "fasta")
+    fasta_files[handle.read()] = f_list[i]
 
-print(fasta_files)
+f_answer = open("Problem 11 answer.txt", "w").write(min(fasta_files, key=len))
 
 #with open("Problem 11 answer.txt", "w") as fp:
 #    json.dump(fasta_files, fp)
