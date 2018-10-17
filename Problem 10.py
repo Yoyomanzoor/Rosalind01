@@ -8,4 +8,5 @@ for i in range(len(s1)):
     if s1[i] != s2[i]:
         count += 1
 
+print(count)
 f_answer = open("Problem 10 answer.txt", "w").write(str(count))
