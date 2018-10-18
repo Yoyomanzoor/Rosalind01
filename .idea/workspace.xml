@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf64a791-cffb-4dca-a849-1bf63a4c8aa6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Problem 12 answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 12 answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 12.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cf64a791-cffb-4dca-a849-1bf63a4c8aa6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +37,14 @@
         <counts>
           <entry key="Python Console" value="136" />
           <entry key="dummy" value="11" />
-          <entry key="py" value="5971" />
+          <entry key="py" value="6025" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="69" />
-          <entry key="Python" value="6053" />
+          <entry key="Python" value="6107" />
         </counts>
       </usages-collector>
     </session>
@@ -60,8 +56,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Problem 12.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+                <state relative-caret-position="272">
+                  <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
                   <folding>
                     <element signature="e#0#22#0" expanded="true" />
                   </folding>
@@ -78,7 +74,7 @@
             <entry file="file://$PROJECT_DIR$/Problem 12.txt">
               <provider selected="true" editor-type-id="text-editor">
                 <state>
-                  <caret column="6" selection-start-column="6" selection-end-column="6" />
+                  <caret column="5" selection-start-column="5" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -86,8 +82,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Problem 12 answer.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+                <state relative-caret-position="34">
+                  <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
                 </state>
               </provider>
             </entry>
@@ -100,7 +96,7 @@
             <entry file="file://$PROJECT_DIR$/cross references.txt">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="289">
-                  <caret column="1590" selection-start-column="1590" selection-end-column="1590" />
+                  <caret column="1595" lean-forward="true" selection-start-column="1595" selection-end-column="1595" />
                 </state>
               </provider>
             </entry>
@@ -143,8 +139,8 @@
         <option value="$PROJECT_DIR$/Problem 10.py" />
         <option value="$PROJECT_DIR$/Problem 11.py" />
         <option value="$PROJECT_DIR$/Problem 11.txt" />
-        <option value="$PROJECT_DIR$/Problem 12.txt" />
         <option value="$PROJECT_DIR$/Problem 12.py" />
+        <option value="$PROJECT_DIR$/Problem 12.txt" />
       </list>
     </option>
   </component>
@@ -524,27 +520,31 @@
     <entry file="file://$PROJECT_DIR$/Problem 12.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cross references.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 12 answer.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="272">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cross references.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret column="1595" lean-forward="true" selection-start-column="1595" selection-end-column="1595" />
         </state>
       </provider>
     </entry>
