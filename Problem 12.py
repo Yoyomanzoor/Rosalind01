@@ -3,6 +3,9 @@ from Bio import SwissProt
 
 f_ID = open("Problem 12.txt", "r").read()
 
+if "\n" in f_ID:
+    f_ID = f_ID.split("\n")[0]
+
 handle = ExPASy.get_sprot_raw(f_ID)
 record = SwissProt.read(handle)
 
