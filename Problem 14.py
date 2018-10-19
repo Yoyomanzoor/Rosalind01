@@ -1,0 +1,1 @@
+f_dataset = open("Problem 14.txt").read()

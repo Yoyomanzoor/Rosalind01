@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf64a791-cffb-4dca-a849-1bf63a4c8aa6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Problem 13 answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13 answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem 14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,66 +26,48 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="problem5" value="1" />
-          <entry key="py" value="23" />
-          <entry key="txt" value="21" />
+          <entry key="py" value="24" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="18" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="136" />
           <entry key="dummy" value="38" />
-          <entry key="py" value="9969" />
+          <entry key="py" value="10036" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="10051" />
+          <entry key="Python" value="10118" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 13.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem 14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#1167#1531#0" />
-                <element signature="e#1570#1727#0" />
-                <element signature="e#981#1950#0" />
-                <element signature="e#1842#2327#0" />
-                <element signature="e#2386#2737#0" />
-                <element signature="e#2797#2900#0" />
-                <marker date="1539929531893" expanded="true" signature="56:374" ph="..." />
-                <marker date="1539929531893" expanded="true" signature="815:980" ph="..." />
-                <marker date="1539929531893" expanded="true" signature="2040:3235" ph="..." />
-              </folding>
+            <state>
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem 13 answer.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-70" />
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 13.txt">
+        <entry file="file://$PROJECT_DIR$/Problem 14.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="51">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -131,6 +112,8 @@
         <option value="$PROJECT_DIR$/Problem 12.txt" />
         <option value="$PROJECT_DIR$/Problem 13.txt" />
         <option value="$PROJECT_DIR$/Problem 13.py" />
+        <option value="$PROJECT_DIR$/Problem 14.txt" />
+        <option value="$PROJECT_DIR$/Problem 14.py" />
       </list>
     </option>
   </component>
@@ -148,6 +131,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Sumeed/PycharmProjects/Rosalind/Problem 13.py" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -164,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 13">
+  <component name="RunManager" selected="Python.Problem 14">
     <configuration name="Problem 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Rosalind01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Problem 14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Rosalind01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,19 +255,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Problem 9" />
       <item itemvalue="Python.Problem 10" />
       <item itemvalue="Python.Problem 11" />
       <item itemvalue="Python.Problem 12" />
       <item itemvalue="Python.Problem 13" />
+      <item itemvalue="Python.Problem 14" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 14" />
         <item itemvalue="Python.Problem 13" />
         <item itemvalue="Python.Problem 12" />
         <item itemvalue="Python.Problem 11" />
         <item itemvalue="Python.Problem 10" />
-        <item itemvalue="Python.Problem 9" />
       </list>
     </recent_temporary>
   </component>
@@ -329,8 +313,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287858" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865228" visible="true" weight="0.33378747" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865228" visible="true" weight="0.32797858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,14 +521,21 @@
     <entry file="file://$PROJECT_DIR$/Problem 13.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 13 answer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="594">
+          <caret line="106" column="50" lean-forward="true" selection-start-line="106" selection-start-column="50" selection-end-line="106" selection-end-column="50" />
           <folding>
             <element signature="e#1167#1531#0" />
             <element signature="e#1570#1727#0" />
@@ -552,16 +543,25 @@
             <element signature="e#1842#2327#0" />
             <element signature="e#2386#2737#0" />
             <element signature="e#2797#2900#0" />
-            <marker date="1539929531893" expanded="true" signature="56:374" ph="..." />
-            <marker date="1539929531893" expanded="true" signature="815:980" ph="..." />
-            <marker date="1539929531893" expanded="true" signature="2040:3235" ph="..." />
+            <marker date="1539929609567" expanded="true" signature="56:275" ph="..." />
+            <marker date="1539929609567" expanded="true" signature="716:881" ph="..." />
+            <marker date="1539929609567" expanded="true" signature="1941:3134" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 13 answer.txt">
+    <entry file="file://$PROJECT_DIR$/Problem 14.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
       </provider>
     </entry>
   </component>
