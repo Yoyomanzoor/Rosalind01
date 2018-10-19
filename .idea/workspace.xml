@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf64a791-cffb-4dca-a849-1bf63a4c8aa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Problem 13 answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13 answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,45 +41,52 @@
         <counts>
           <entry key="Python Console" value="136" />
           <entry key="dummy" value="38" />
-          <entry key="py" value="9289" />
+          <entry key="py" value="9969" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="9371" />
+          <entry key="Python" value="10051" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1539925772892" expanded="true" signature="867:1123" ph="..." />
-                <marker date="1539925772892" expanded="true" signature="1564:1729" ph="..." />
-                <marker date="1539925772892" expanded="true" signature="1796:2986" ph="..." />
+                <element signature="e#1167#1531#0" />
+                <element signature="e#1570#1727#0" />
+                <element signature="e#981#1950#0" />
+                <element signature="e#1842#2327#0" />
+                <element signature="e#2386#2737#0" />
+                <element signature="e#2797#2900#0" />
+                <marker date="1539929531893" expanded="true" signature="56:374" ph="..." />
+                <marker date="1539929531893" expanded="true" signature="815:980" ph="..." />
+                <marker date="1539929531893" expanded="true" signature="2040:3235" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Problem 13 answer.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-70" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 13.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="96" selection-start-line="1" selection-end-line="1" selection-end-column="96" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -518,9 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 13 answer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -530,22 +536,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 13.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="96" selection-start-line="1" selection-end-line="1" selection-end-column="96" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1539925772892" expanded="true" signature="867:1123" ph="..." />
-            <marker date="1539925772892" expanded="true" signature="1564:1729" ph="..." />
-            <marker date="1539925772892" expanded="true" signature="1796:2986" ph="..." />
+            <element signature="e#1167#1531#0" />
+            <element signature="e#1570#1727#0" />
+            <element signature="e#981#1950#0" />
+            <element signature="e#1842#2327#0" />
+            <element signature="e#2386#2737#0" />
+            <element signature="e#2797#2900#0" />
+            <marker date="1539929531893" expanded="true" signature="56:374" ph="..." />
+            <marker date="1539929531893" expanded="true" signature="815:980" ph="..." />
+            <marker date="1539929531893" expanded="true" signature="2040:3235" ph="..." />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 13 answer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70" />
       </provider>
     </entry>
   </component>
