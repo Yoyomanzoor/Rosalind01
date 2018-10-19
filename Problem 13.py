@@ -4,9 +4,6 @@ def find_seq(dataset):
     seq_from_data = ""
     f_list = dataset.split("\n")
     seq_from_data_list = [x for x in f_list if ">" not in f_list]
-    # for i in range(len(f_list)):
-    #     if f_list[i][0] == ">":
-    #         seq_from_data =
     for i in range(len(seq_from_data_list)):
         seq_from_data += seq_from_data_list[i]
 
@@ -77,8 +74,6 @@ def split(delimiters, string, maxsplit=0):
     return re.split(regexPattern, string, maxsplit)
 
 f_dataset = open("Problem 13.txt", "r").read()
-
-
 
 sequence = find_seq(f_dataset)
 
