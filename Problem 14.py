@@ -19,6 +19,8 @@ def find_NGlyc_motifs(sequence_list):
     NGlyc_motif_counter = 0
     for j in range(len(sequence_list)):
         for m in range(len(sequence_list[j])):
+            if len(sequence_list[j][m:]) < 3:
+                continue
             if sequence_list[j][m] == "N" and sequence_list[j][m + 1] != "P" and (sequence_list[j][m + 2] == "S" or sequence_list[j][m + 2] == "T") and sequence_list[j][m + 3] != "P":
                 NGlyc_motif_locations += str(m + 1) + " "
                 NGlyc_motif_counter += 1
