@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf64a791-cffb-4dca-a849-1bf63a4c8aa6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem 14 answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 14 answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 14.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,42 +41,37 @@
         <counts>
           <entry key="Python Console" value="136" />
           <entry key="dummy" value="38" />
-          <entry key="py" value="12140" />
+          <entry key="py" value="12212" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="100" />
-          <entry key="Python" value="12222" />
+          <entry key="Python" value="12294" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Problem 14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="153">
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
               <folding>
-                <element signature="e#93#308#0" />
                 <element signature="e#77#728#0" />
-                <marker date="1540189806681" expanded="true" signature="88:314" ph="..." />
-                <marker date="1540189806681" expanded="true" signature="1065:1274" ph="..." />
+                <marker date="1540190339550" expanded="true" signature="89:317" ph="..." />
+                <marker date="1540190339550" expanded="true" signature="1068:1277" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 14 answer.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -555,6 +548,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 14 answer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 14.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -564,21 +560,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="153">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
           <folding>
-            <element signature="e#93#308#0" />
             <element signature="e#77#728#0" />
-            <marker date="1540189806681" expanded="true" signature="88:314" ph="..." />
-            <marker date="1540189806681" expanded="true" signature="1065:1274" ph="..." />
+            <marker date="1540190339550" expanded="true" signature="89:317" ph="..." />
+            <marker date="1540190339550" expanded="true" signature="1068:1277" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 14 answer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

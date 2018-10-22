@@ -1,5 +1,6 @@
 from Bio import ExPASy, SwissProt
 
+
 def find_multiple_sequences_from_UniProtIDs(ID_list):
     sequences = ""
     i = 0
@@ -40,6 +41,11 @@ f_dataset = open("Problem 14.txt").read()
 f_IDs = [f_dataset]
 if "\n" in f_dataset:
     f_IDs = f_dataset.split("\n")
+
+# try:
+#     sequence_collection = find_multiple_sequences_from_UniProtIDs(f_IDs)
+# except ValueError:
+#     print("Accession not found via ExPASy")
 
 sequence_collection = find_multiple_sequences_from_UniProtIDs(f_IDs)
 
