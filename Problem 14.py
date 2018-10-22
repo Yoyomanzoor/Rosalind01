@@ -4,8 +4,9 @@ from Bio import ExPASy, SwissProt
 def find_multiple_sequences_from_UniProtIDs(ID_list):
     sequences = ""
     i = 0
-    for item in ID_list:
-        handle = ExPASy.get_sprot_raw(ID_list[i])
+    new_ID_list = [x for x in ID_list if x]
+    for item in new_ID_list:
+        handle = ExPASy.get_sprot_raw(new_ID_list[i])
         record = SwissProt.read(handle)
         sequences += record.sequence + "\n"
         i += 1
@@ -32,7 +33,6 @@ def make_outfile(accession_IDs_list, ID_markers_list, motif_locations_list):
     outfile = ""
     for n in range(len(ID_markers_list)):
         outfile += accession_IDs_list[ID_markers_list[n]] + "\n" + motif_locations_list[n] + "\n"
-    print(motif_locations_list)
     return outfile
 
 

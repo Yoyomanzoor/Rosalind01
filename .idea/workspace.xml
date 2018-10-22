@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf64a791-cffb-4dca-a849-1bf63a4c8aa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 13 answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13 answer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem 14 answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 14 answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 14.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,63 +31,83 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="problem5" value="1" />
-          <entry key="py" value="24" />
+          <entry key="py" value="27" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="19" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="136" />
           <entry key="dummy" value="38" />
-          <entry key="py" value="12212" />
-          <entry key="txt" value="8" />
+          <entry key="py" value="12459" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="100" />
-          <entry key="Python" value="12294" />
+          <entry key="PLAIN_TEXT" value="123" />
+          <entry key="Python" value="12541" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem 14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-              <folding>
-                <element signature="e#77#728#0" />
-                <marker date="1540190339550" expanded="true" signature="89:317" ph="..." />
-                <marker date="1540190339550" expanded="true" signature="1068:1277" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 14 answer.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 14.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Problem 14.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="332">
+                  <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+                  <folding>
+                    <marker date="1540236296142" expanded="true" signature="89:367" ph="..." />
+                    <marker date="1540236296142" expanded="true" signature="1118:1295" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Problem 14 answer.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="237">
+                  <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Problem 14.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Problem 13.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="322">
+                  <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,12 +147,12 @@
         <option value="$PROJECT_DIR$/Problem 12.txt" />
         <option value="$PROJECT_DIR$/Problem 13.txt" />
         <option value="$PROJECT_DIR$/Problem 13.py" />
-        <option value="$PROJECT_DIR$/Problem 14.txt" />
         <option value="$PROJECT_DIR$/Problem 14.py" />
+        <option value="$PROJECT_DIR$/Problem 14.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1600" />
     <option name="width" value="1600" />
     <option name="height" value="1728" />
@@ -297,7 +321,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="864" extended-state="0" />
+    <frame x="-6" y="-6" width="1613" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2574124" />
@@ -305,7 +329,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865228" visible="true" weight="0.33378747" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865228" visible="true" weight="0.2811245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,7 +350,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865228" visible="true" weight="0.32797858" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865228" visible="true" weight="0.2811245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,29 +567,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="106" column="50" lean-forward="true" selection-start-line="106" selection-start-column="50" selection-end-line="106" selection-end-column="50" />
+        <state relative-caret-position="322">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 14 answer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 14.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="332">
+          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
           <folding>
-            <element signature="e#77#728#0" />
-            <marker date="1540190339550" expanded="true" signature="89:317" ph="..." />
-            <marker date="1540190339550" expanded="true" signature="1068:1277" ph="..." />
+            <marker date="1540236296142" expanded="true" signature="89:367" ph="..." />
+            <marker date="1540236296142" expanded="true" signature="1118:1295" ph="..." />
           </folding>
         </state>
       </provider>
