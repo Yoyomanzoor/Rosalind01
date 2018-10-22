@@ -44,11 +44,6 @@ f_IDs = [f_dataset]
 if "\n" in f_dataset:
     f_IDs = f_dataset.split("\n")
 
-# try:
-#     sequence_collection = find_multiple_sequences_from_UniProtIDs(f_IDs)
-# except ValueError:
-#     print("Accession not found via ExPASy")
-
 sequence_collection = find_multiple_sequences_from_UniProtIDs(f_IDs)
 
 seq_col_list = sequence_collection.split("\n")
