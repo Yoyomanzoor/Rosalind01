@@ -43,12 +43,17 @@ f_dataset = open("Problem 14.txt").read()
 f_IDs = [f_dataset]
 if "\n" in f_dataset:
     f_IDs = f_dataset.split("\n")
+# print(f_IDs)
 
 sequence_collection = find_multiple_sequences_from_UniProtIDs(f_IDs)
+# print(sequence_collection)
 
 seq_col_list = sequence_collection.split("\n")
+# print(seq_col_list)
 
 NGlyc_motif_locations, ID_marker = find_NGlyc_motifs(seq_col_list)
+# print(NGlyc_motif_locations)
+# print(ID_marker)
 
 NGlyc_locations_list = NGlyc_motif_locations.split("\n")
 
